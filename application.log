@@ -1,0 +1,24 @@
+2021-02-13 16:11:55,837  INFO [main] LoginTest:22 - ---------------------------------------
+2021-02-13 16:11:55,842  INFO [main] LoginTest:23 - initionalizing browser
+2021-02-13 16:12:01,611  INFO [main] LoginTest:26 - chrome browser opened
+2021-02-13 16:12:02,229  INFO [main] LoginTest:28 - JBK offline application launched
+2021-02-13 16:12:02,280  INFO [main] LoginTest:31 - all webElements browser
+2021-02-13 16:12:02,296  INFO [main] LoginTest:51 - User loggin in with invalid credentioal
+2021-02-13 16:12:03,296  INFO [main] LoginTest:53 - user will not logged in to application
+2021-02-13 16:12:03,358  INFO [main] LoginTest:35 - Closing the browser
+2021-02-13 16:12:03,659  INFO [main] LoginTest:22 - ---------------------------------------
+2021-02-13 16:12:03,659  INFO [main] LoginTest:23 - initionalizing browser
+2021-02-13 16:12:08,260  INFO [main] LoginTest:26 - chrome browser opened
+2021-02-13 16:12:08,845  INFO [main] LoginTest:28 - JBK offline application launched
+2021-02-13 16:12:08,846  INFO [main] LoginTest:31 - all webElements browser
+2021-02-13 16:12:08,848  INFO [main] LoginTest:58 - Test 3
+2021-02-13 16:12:08,851  INFO [main] LoginTest:35 - Closing the browser
+2021-02-13 16:12:09,342  INFO [main] LoginTest:22 - ---------------------------------------
+2021-02-13 16:12:09,344  INFO [main] LoginTest:23 - initionalizing browser
+2021-02-13 16:12:13,598  INFO [main] LoginTest:26 - chrome browser opened
+2021-02-13 16:12:14,196  INFO [main] LoginTest:28 - JBK offline application launched
+2021-02-13 16:12:14,197  INFO [main] LoginTest:31 - all webElements browser
+2021-02-13 16:12:14,199  INFO [main] LoginTest:41 - Logging in to the JBK Application
+2021-02-13 16:12:14,200  WARN [main] LoginTest:42 - do not enter numeric username
+2021-02-13 16:12:15,116  INFO [main] LoginTest:46 - user loggin in to the Jbk Application
+2021-02-13 16:12:15,119  INFO [main] LoginTest:35 - Closing the browser
